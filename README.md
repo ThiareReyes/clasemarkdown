@@ -5,4 +5,14 @@
 **Pensamiento Computacional**
 
 
-*Programacion*
+*Programación*
+
+***Negrita y cursiva***
+
+1. elemento 1
+2. elemento 2
+3. elemento 3
+
+   3.1 elemento
+
+[wikipedia](https://es.wikipedia.org/wiki/Wikipedia:Portada)
